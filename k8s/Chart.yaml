@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_CODEC_CLOUD
+name: alice-codec-cloud
 description: ALICE Codec Cloud
 type: application
 version: 0.1.0
